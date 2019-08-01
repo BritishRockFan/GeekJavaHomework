@@ -1,3 +1,5 @@
+package Lesson_1;
+
 //1st task
 //Lesson 1
 public class Main {
